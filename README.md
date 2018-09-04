@@ -7,7 +7,7 @@ Lead scoring ranks a prospect or lead against certain parameters to gauge their 
 # How to use Data Science in Lead-Scoring?
 Excel
 
-# prerequisites
+# Prerequisites
 Should have basic knowledge of Python
 
 # Installing
